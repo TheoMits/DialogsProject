@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DialogsProject</string>
+
+    <!-- Dialogs -->
+    <string name="message_dialog">Here\'s a message!</string>
+    <string name="dialog_error">Error</string>
+    <string name="dialog_error_content">Something went wrong!</string>
+    <string name="loading">Loading...</string>
+    <string name="warning_dialog">Are you sure?</string>
+    <string name="warnig_dialog_content">You wont be able to recover this file!</string>
+    <string name="confirm_to_delete">Yes delete it!</string>
+    <string name="deleted_dialog">Deleted!</string>
+    <string name="deleted_dialog_content">Your imaginary file has been deleted!</string>
+    <string name="ok_dialog">OK</string>
+</resources>
